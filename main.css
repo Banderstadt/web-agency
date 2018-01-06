@@ -16,7 +16,7 @@ body {
     font-family: 'Roboto', sans-serif;
 
 }
-/* nav */
+/* #################### nav ####################### */
 
 nav ul {
     list-style-type: none;
@@ -73,7 +73,7 @@ nav ul li a:hover {
     }
 }
 
-/* #################### banner ####################### */
+/* #################### banner ###################### */
 
 #banner {
     min-height: 90vh;
@@ -120,7 +120,7 @@ nav ul li a:hover {
     background: #e6af2e;
 }
 
-/*############# skills section ###################*/
+/* ################# skills section ################### */
 
 #skills {
     padding: 60px 0;
@@ -172,7 +172,7 @@ nav ul li a:hover {
     }
 }
 
-/* title */
+/* ################ title #################*/
 
 .title {
     margin: 40px 0;
@@ -192,7 +192,7 @@ nav ul li a:hover {
     margin: 0 auto;
 }
 
-/* services */
+/* ################### services ##################### */
 
 #services {
     min-height: 100vh;
@@ -233,7 +233,7 @@ nav ul li a:hover {
 
 .front-text {
     text-align: center;
-    transition: transform 2s;
+    transition: transform 1s;
 }
 
 .back-text {
@@ -242,7 +242,7 @@ nav ul li a:hover {
     width: 75%;
     margin: 0 auto;
     height: 100%;
-    transition: bottom 2s;
+    transition: bottom 1s;
     padding: 35px 0;
 }
 
