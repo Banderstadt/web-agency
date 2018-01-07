@@ -210,6 +210,12 @@ nav ul li a:hover {
     padding: 20px 0 8px 0;
 }
 
+@media screen and (max-width: 767px) {
+    #services {
+        background-attachment: initial;
+    }
+}
+
 .services-container {
     max-width: 90vw;
     margin: 0 auto;
