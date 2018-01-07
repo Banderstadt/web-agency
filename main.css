@@ -259,23 +259,23 @@ nav ul li a:hover {
     color: #e6af2e;
 }
 
-.back-text button:hover:active {
+.back-text button:hover {
     background-color: #e6af2e;
     color: #191716;
 }
 
-.service-item-white button:hover:active {
+.service-item-white button:hover {
     background: #191716;
     border-color: #191716;
     color: #e6af2e
 }
 
-.service-item:hover:active .front-text {
+.service-item:hover .front-text {
     /* transform: translateY(-200px); */
     transform: rotateX(90deg);
 }
 
-.service-item:hover:active .back-text {
+.service-item:hover .back-text {
     bottom: 0;
 }
 
@@ -296,13 +296,14 @@ nav ul li a:hover {
     .services-container .service-item:nth-of-type(4) {
         order: 3;
     }
+    
 }
 
 
 /* projects */
 
 #projects .title-text {
-    color: #191716:
+    color: #191716;
 }
 
 #projects {
