@@ -187,7 +187,7 @@ nav ul li a:hover {
 .title-text {
     text-align: center;
     font-size: 40px;
-    color: #e0e2db;
+    color: #191716;
     font-style: italic;
     text-transform: uppercase;
 }
@@ -417,6 +417,7 @@ nav ul li a:hover {
     padding: 60px;
     align-items: baseline;
 }
+
 
 #filler-contact h1 {
     font-size: 30px;
